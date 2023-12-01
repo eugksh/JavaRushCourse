@@ -16,9 +16,19 @@ public class Main {
         //Boolean_train_input booltraininput = new Boolean_train_input();
         //booltraininput.bool_train();
 
-        System.out.println("What temperature?");
-        body_temperature BT = new body_temperature();
-        BT.check_temp();
+        //System.out.println("What temperature?");
+        //body_temperature BT = new body_temperature();
+        //BT.check_temp();
 
+        //System.out.println("Enter 3 numbers");
+        //Task_0305 task0305 = new Task_0305();
+        //task0305.number_print_opt();
+
+        //System.out.println("Enter sides of triangle ( till 127 )");
+        //Triangle triangle = new Triangle();
+        //triangle.check_triangle();
+
+        Sleep sleep = new Sleep();
+        sleep.time_to_sleep();
     }
 }

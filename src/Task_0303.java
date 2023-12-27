@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Task_0303 {
     Scanner age_input = new Scanner(System.in);

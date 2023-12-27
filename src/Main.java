@@ -28,7 +28,11 @@ public class Main {
         //Triangle triangle = new Triangle();
         //triangle.check_triangle();
 
-        Sleep sleep = new Sleep();
-        sleep.time_to_sleep();
+        //Sleep sleep = new Sleep();
+        //sleep.time_to_sleep();
+
+        Cycles_train cyt = new Cycles_train();
+        cyt.christmas_tree();
+
     }
 }

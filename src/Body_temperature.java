@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class body_temperature {
+public class Body_temperature {
     Scanner temp_input = new Scanner(System.in);
     float temperature = temp_input.nextFloat();
     boolean isHigh = (temperature > 36.6);

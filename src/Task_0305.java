@@ -1,5 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
 public class Task_0305 {
     Scanner number_input = new Scanner(System.in);

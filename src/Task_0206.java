@@ -1,5 +1,3 @@
-import java.sql.Struct;
-
 public class Task_0206 {
     String name = "Petja";
     String phrase = "Phrase";

@@ -31,8 +31,12 @@ public class Main {
         //Sleep sleep = new Sleep();
         //sleep.time_to_sleep();
 
-        Cycles_train cyt = new Cycles_train();
-        cyt.christmas_tree();
+        //Cycles_train cyt = new Cycles_train();
+        //cyt.christmas_tree();
+
+        //Task_0407 task0407 = new Task_0407();
+        //task0407.three();
+        //task0407.two();
 
     }
 }

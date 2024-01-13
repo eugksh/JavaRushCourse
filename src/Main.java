@@ -38,5 +38,9 @@ public class Main {
         //task0407.three();
         //task0407.two();
 
+        MinMax_check mm_c = new MinMax_check();
+        mm_c.mm_check();
+
+
     }
 }

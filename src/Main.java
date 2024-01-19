@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         //Вызвать другой класс здесь
         //Task_0206 task0206 = new Task_0206();
         //task0206.task_0206();
@@ -53,8 +54,14 @@ public class Main {
         //Xmas xmas = new Xmas();
         //xmas.tree();
 
-        Triangle_for triangleFor = new Triangle_for();
-        triangleFor.triangle_for();
+        //Triangle_for triangleFor = new Triangle_for();
+        //triangleFor.triangle_for();
+
+        //Task_0414 task0414 = new Task_0414();
+        //task0414.task_0414();
+
+        Array_train arrayTrain = new Array_train();
+        arrayTrain.test_array();
 
     }
 }

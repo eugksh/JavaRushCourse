@@ -50,8 +50,11 @@ public class Main {
         //Task_0412 task0412 = new Task_0412();
         //task0412.task_0412();
 
-        Xmas xmas = new Xmas();
-        xmas.tree();
+        //Xmas xmas = new Xmas();
+        //xmas.tree();
+
+        Triangle_for triangleFor = new Triangle_for();
+        triangleFor.triangle_for();
 
     }
 }

@@ -38,9 +38,20 @@ public class Main {
         //task0407.three();
         //task0407.two();
 
-        MinMax_check mm_c = new MinMax_check();
-        mm_c.mm_check();
+        //MinMax_check mm_c = new MinMax_check();
+        //mm_c.mm_check();
 
+        //MinAverMax mam = new MinAverMax();
+        //mam.find_average();
+
+        //Task_0411 task0411 = new Task_0411();
+        //task0411.task_0411();
+
+        //Task_0412 task0412 = new Task_0412();
+        //task0412.task_0412();
+
+        Xmas xmas = new Xmas();
+        xmas.tree();
 
     }
 }

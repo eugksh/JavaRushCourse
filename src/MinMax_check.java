@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class MinMax_check {
     Scanner console = new Scanner(System.in);
-    int max; //не задавать значения - если задавать 0 или MAX MIN Value, работает неккоректно
-    int min;
+    private int max; //не задавать значения - если задавать 0 или MAX MIN Value, работает неккоректно
+    private int min;
 
     public void mm_check() {
         while (console.hasNextInt()) {
@@ -14,7 +14,7 @@ public class MinMax_check {
             if (command.equals("stop")) {
                 break;
             }
-        } System.out.println(max + " " + min);
+        }
+        System.out.println(max + " " + min);
     }
 }
-

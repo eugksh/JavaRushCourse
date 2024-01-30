@@ -1,4 +1,4 @@
-public class Triangle_for {
+public class TriangleFor {
     int rows = 5;  // Количество уровней треугольника
 
     public void triangle_for() {

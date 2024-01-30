@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MinMax_check {
+public class MinMaxCheck {
     Scanner console = new Scanner(System.in);
     private int max; //не задавать значения - если задавать 0 или MAX MIN Value, работает неккоректно
     private int min;

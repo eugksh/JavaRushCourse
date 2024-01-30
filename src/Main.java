@@ -14,7 +14,7 @@ public class Main {
         //task0303.check_age();
 
         //System.out.println("True or false?");
-        //Boolean_train_input booltraininput = new Boolean_train_input();
+        //BooleanTrainInput booltraininput = new BooleanTrainInput();
         //booltraininput.bool_train();
 
         //System.out.println("What temperature?");
@@ -32,14 +32,14 @@ public class Main {
         //Sleep sleep = new Sleep();
         //sleep.time_to_sleep();
 
-        //Cycles_train cyt = new Cycles_train();
+        //CyclesTrain cyt = new CyclesTrain();
         //cyt.christmas_tree();
 
         //Task_0407 task0407 = new Task_0407();
         //task0407.three();
         //task0407.two();
 
-        //MinMax_check mm_c = new MinMax_check();
+        //MinMaxCheck mm_c = new MinMaxCheck();
         //mm_c.mm_check();
 
         //MinAverMax mam = new MinAverMax();
@@ -54,13 +54,13 @@ public class Main {
         //Xmas xmas = new Xmas();
         //xmas.tree();
 
-        //Triangle_for triangleFor = new Triangle_for();
+        //TriangleFor triangleFor = new TriangleFor();
         //triangleFor.triangle_for();
 
         //Task_0414 task0414 = new Task_0414();
         //task0414.task_0414();
 
-        Array_train arrayTrain = new Array_train();
+        ArrayTrain arrayTrain = new ArrayTrain();
         arrayTrain.test_array();
 
     }

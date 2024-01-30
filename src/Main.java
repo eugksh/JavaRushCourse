@@ -60,8 +60,14 @@ public class Main {
         //Task_0414 task0414 = new Task_0414();
         //task0414.task_0414();
 
-        ArrayTrain arrayTrain = new ArrayTrain();
-        arrayTrain.test_array();
+        //ArrayTrain arrayTrain = new ArrayTrain();
+        //arrayTrain.test_array();
+
+        //Task_0504 task0504 = new Task_0504();
+        //task0504.task_0504();
+
+        Task_0505 task0505 = new Task_0505();
+        task0505.task_0505();
 
     }
 }

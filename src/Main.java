@@ -66,8 +66,11 @@ public class Main {
         //Task_0504 task0504 = new Task_0504();
         //task0504.task_0504();
 
-        Task_0505 task0505 = new Task_0505();
-        task0505.task_0505();
+        //Task_0505 task0505 = new Task_0505();
+        //task0505.task_0505();
+
+        //ArrayMinMax arrayMinMax = new ArrayMinMax();
+        //arrayMinMax.arrayminmax();
 
     }
 }

@@ -72,5 +72,17 @@ public class Main {
         //ArrayMinMax arrayMinMax = new ArrayMinMax();
         //arrayMinMax.arrayminmax();
 
+        //VariablesTest vartest = new VariablesTest();
+        //vartest.task0704();
+
+        //VariablesTest2 Vartest2 = new VariablesTest2();
+        //Vartest2.vartest2();
+
+        //ObjectsTest objtest = new ObjectsTest();
+        //objtest.createObj(10,5,2);
+
+        Task_0614 task0614 = new Task_0614();
+        task0614.task_0614();
+
     }
 }

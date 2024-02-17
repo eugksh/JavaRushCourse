@@ -81,8 +81,17 @@ public class Main {
         //ObjectsTest objtest = new ObjectsTest();
         //objtest.createObj(10,5,2);
 
-        Task_0614 task0614 = new Task_0614();
-        task0614.task_0614();
+        //Task_0614 task0614 = new Task_0614();
+        //task0614.task_0614();
+
+        //Dice dice = new Dice();
+        //dice.Number();
+
+        //MagicBall magicBall = new MagicBall();
+        //magicBall.Predict();
+
+        MagicBall2 magicBall2 = new MagicBall2();
+        magicBall2.Predict();
 
     }
 }

@@ -90,8 +90,14 @@ public class Main {
         //MagicBall magicBall = new MagicBall();
         //magicBall.Predict();
 
-        MagicBall2 magicBall2 = new MagicBall2();
-        magicBall2.Predict();
+        //MagicBall2 magicBall2 = new MagicBall2();
+        //magicBall2.Predict();
 
+        Go go = new Go();
+        try {
+            go.Gagarin();
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
     }
 }
